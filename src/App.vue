@@ -1,7 +1,7 @@
 <template>
-  <div class="bg-gray-100 p-4 sm:p-6">
+  <div class="bg-gray-100 text-white p-4 sm:p-6">
     <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
-      <div class="md:col-span-2 grid grid-cols-1 gap-4">
+      <div class="grid grid-cols-1 gap-4">
         <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
           <ResilienceBox />
           <GrowthBox />
